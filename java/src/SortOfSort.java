@@ -4,7 +4,7 @@ public class SortOfSort {
     int maxIndex;
     // Declare and initialize variable that makes sure the values swapped at the end of the array come before the sorted section.
     int endIndex = integerArray.length - 1;
-    // Declare and initialize variable that makes sure the array begins after the sorted section.
+    // Declare and initialize variable that makes sure the array be2gins after the sorted section.
     int beginningIndex = 0;
     // Declare and initialize variable that checks if the value is added to the beginning or the end.
     int counter = 1;
